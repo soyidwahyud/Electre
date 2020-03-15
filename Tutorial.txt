@@ -1,0 +1,7 @@
+maaf pak izin memberi tahu 
+untuk menjalankan program electre saya, sebelumnya untuk import 
+file database (.sql) yang terdapat pada folder electre terlebih dahulu
+karena saya memasukan alternatif, kriteria, nilai alternatif, 
+dan pilihan kriteria di database tersebut
+
+terima kasih pak maaf sebelumnya :)
